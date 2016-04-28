@@ -1,0 +1,10 @@
+{
+	"CONTAINERS": [{
+		"roomName": "Room_Hall",
+		"requirements": ["OldKey"],
+		"flavour": "a chest. it's locked.",
+		"successFlavour": "you insert the key into the chest. it explodes for some reason, but you got the thing.",
+		"unlockedFlavour": "an exploded chest.",
+		"item": ["OldPhoto"]
+	}]
+}

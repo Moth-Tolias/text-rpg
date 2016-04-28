@@ -1,0 +1,12 @@
+{
+	"ROOMS": [{
+		"roomName": "Room_Start",
+		"roomFlavour": "aa"
+	}, {
+		"roomName": "Room_Hall",
+		"roomFlavour": "bbbb"
+	}, {
+		"roomName": "Room_FurtherHallR",
+		"roomFlavour": "ccc"
+	}]
+}

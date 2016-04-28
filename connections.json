@@ -1,0 +1,20 @@
+{
+	"CONNECTIONS": [{
+		"roomEntry": "Room_Start",
+		"roomExit": ["Room_Hall"],
+		"direction": "NORTH",
+		"flavour": "ayyy"
+	}, {
+		"roomEntry": "Room_Hall",
+		"roomExit": ["Room_FurtherHallR"],
+		"direction": "EAST",
+		"requirements": ["OldKey"],
+		"flavour": "beeee"
+	}, {
+		"roomEntry": "Room_FurtherHallR",
+		"roomExit": ["Room_Hall"],
+		"direction": "WEST",
+		"requirements": ["OldKey"],
+		"flavour": "john cena"
+	}]
+}

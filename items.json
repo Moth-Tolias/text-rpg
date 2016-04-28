@@ -1,0 +1,15 @@
+{
+	"ITEMS": [{
+		"location": "Room_Hall",
+		"item": "OldKey",
+		"flavour": "there is an old key here."
+		"pickupFlavour":"you picked up the key."
+		"examineFlavour":"an old key. it looks rather rusty."
+	}, {
+		"location": "null",
+		"item": "OldPhoto",
+		"flavour": "there is a faded picture in here."
+		"pickupFlavour":"you took the picture."
+		"examineFlavour":"a faded picture of a man in a strange pose. For some reason, seeing him fills you with emotion."
+	}]
+}
